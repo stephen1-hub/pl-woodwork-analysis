@@ -1,0 +1,199 @@
+match_id,team_name,total_shots,shots_on_target,blocked_shots,goals,woodwork_events,total_xg
+5795480,Leeds United,12,6,1,1,0,1.409
+5795498,Manchester United,12,8,3,0,0,1.244
+5795489,Crystal Palace,17,9,5,0,0,1.818
+5795491,Nottingham Forest,17,6,1,1,0,2.29
+5795428,Coventry City,11,8,5,0,0,1.292
+5795507,Crystal Palace,19,12,5,1,1,2.619
+5795444,Nottingham Forest,12,5,3,0,0,0.922
+5795441,Liverpool,10,9,2,2,0,0.686
+5795428,Hull City,6,2,0,1,0,0.718
+5795431,Nottingham Forest,12,9,6,2,0,2.301
+5795490,Hull City,12,4,2,1,0,1.571
+5795457,Arsenal,11,7,5,0,0,1.628
+5795458,Ipswich Town,13,8,4,0,0,1.436
+5795476,Liverpool,21,9,4,2,1,1.64
+5795475,Sunderland,3,0,0,0,0,0.073
+5795435,Arsenal,16,15,6,2,0,2.052
+5795472,Liverpool,13,10,4,0,0,0.942
+5795488,Coventry City,13,5,3,0,0,0.512
+5795481,Ipswich Town,8,3,0,2,0,1.864
+5795511,Leeds United,16,8,4,1,0,1.978
+5795456,Brentford,13,10,4,3,0,2.898
+5795481,Manchester City,19,12,6,3,1,3.35
+5795451,Fulham,10,7,3,0,0,0.7
+5795453,Sunderland,12,7,4,0,0,1.801
+5795425,Everton,13,7,0,1,0,1.862
+5795435,Chelsea,13,7,2,1,1,0.389
+5795429,Crystal Palace,9,2,1,0,1,0.664
+5795508,Everton,15,10,3,3,0,1.432
+5795470,Everton,15,10,3,2,0,1.699
+5795430,Leeds United,12,8,6,1,0,1.455
+5795484,Tottenham Hotspur,16,9,4,3,0,0.86
+5795499,Sunderland,17,10,8,1,0,1.822
+5795436,Sunderland,7,5,1,3,0,2.389
+5795443,Newcastle United,9,5,2,3,0,0.707
+5795490,Brentford,14,11,5,1,0,1.737
+5795470,Hull City,9,7,2,2,0,1.326
+5795439,Crystal Palace,4,3,0,1,0,0.562
+5795368,Brentford,26,15,7,3,1,3.906
+5795479,Fulham,18,12,6,1,1,1.401
+5795493,AFC Bournemouth,10,5,1,3,0,2.147
+5795511,Tottenham Hotspur,7,4,0,0,0,0.72
+5795463,Nottingham Forest,24,15,12,0,0,1.098
+5795494,Sunderland,15,11,7,0,0,0.827
+5795503,Everton,16,6,1,1,0,2.439
+5795502,Manchester City,21,14,8,0,1,1.655
+5795365,Everton,16,12,7,2,0,1.119
+5795438,Everton,18,13,7,2,0,1.01
+5795369,Aston Villa,7,1,0,1,0,0.287
+5795477,Brighton & Hove Albion,17,13,4,4,0,2.277
+5795448,Coventry City,14,8,2,0,0,1.383
+5795508,Coventry City,15,7,3,1,0,1.212
+5795430,Brentford,22,16,11,1,0,1.715
+5795510,Ipswich Town,11,6,3,2,0,1.256
+5795483,Nottingham Forest,14,8,6,0,0,0.898
+5795445,AFC Bournemouth,20,12,2,2,0,1.757
+5795473,Manchester United,12,7,3,1,0,0.8
+5795486,Aston Villa,8,5,3,2,0,0.612
+5795441,Ipswich Town,14,9,4,0,0,0.753
+5795475,AFC Bournemouth,29,14,8,2,0,4.253
+5795453,Arsenal,11,7,2,2,0,1.88
+5795504,Tottenham Hotspur,34,22,13,2,0,3.543
+5795472,Manchester City,15,8,4,3,0,1.284
+5795437,Leeds United,10,6,1,1,1,2.616
+5795464,Tottenham Hotspur,20,11,4,2,0,1.579
+5795364,Hull City,8,5,1,2,0,1.074
+5795439,Fulham,14,10,6,0,0,1.459
+5795462,Hull City,22,15,11,1,0,1.595
+5795509,Fulham,11,6,1,1,1,0.7
+5795507,Liverpool,20,12,4,3,0,2.646
+5795502,Brighton & Hove Albion,7,4,1,1,0,1.092
+5795440,Aston Villa,13,6,5,0,0,1.929
+5795510,AFC Bournemouth,15,9,5,1,0,2.231
+5795513,Manchester City,12,8,4,1,0,1.759
+5795363,Coventry City,4,2,1,0,0,0.204
+5795445,Brentford,8,3,1,2,0,0.498
+5795495,AFC Bournemouth,11,8,3,2,0,1.402
+5795437,Brighton & Hove Albion,20,12,7,1,0,2.194
+5795505,Arsenal,21,16,6,1,0,1.269
+5795369,Brighton & Hove Albion,21,9,3,3,2,3.766
+5795465,Arsenal,13,9,3,2,0,2.328
+5795468,Newcastle United,19,12,6,1,0,1.838
+5795469,Nottingham Forest,24,14,8,1,1,3.342
+5795492,Liverpool,13,7,3,1,0,1.203
+5795512,Manchester United,26,16,7,4,1,3.551
+5795473,Tottenham Hotspur,12,9,6,1,0,1.618
+5795459,Fulham,12,7,1,0,0,1.624
+5795462,Newcastle United,12,7,2,2,0,1.438
+5795461,Manchester City,16,11,5,5,0,2.818
+5795456,Chelsea,12,9,7,0,0,0.848
+5795370,Manchester City,13,9,3,2,0,2.252
+5795513,Nottingham Forest,11,8,3,3,0,1.055
+5795468,Coventry City,9,9,3,4,0,1.474
+5795483,Arsenal,9,4,3,1,0,1.141
+5795509,Newcastle United,9,6,1,1,0,1.137
+5795363,Arsenal,20,14,8,3,0,1.882
+5795458,Everton,21,10,8,1,0,2.236
+5795471,Ipswich Town,11,6,1,2,1,1.146
+5795367,Nottingham Forest,8,5,2,0,0,0.83
+5795474,Brighton & Hove Albion,13,6,2,2,1,1.413
+5795432,Manchester United,33,23,12,4,1,5.145
+5795469,Crystal Palace,13,9,2,3,0,2.605
+5795433,Fulham,11,8,8,0,0,0.948
+5795432,Ipswich Town,10,7,1,3,0,2.061
+5795505,Hull City,7,4,2,0,0,0.365
+5795438,Manchester United,14,9,6,2,1,0.688
+5795457,Brighton & Hove Albion,17,8,3,3,1,1.322
+5795467,AFC Bournemouth,9,6,2,1,0,1.382
+5795504,Crystal Palace,2,2,1,0,0,0.144
+5795479,Hull City,5,1,1,0,0,0.163
+5795451,Liverpool,14,8,5,0,0,1.278
+5795446,Nottingham Forest,22,10,3,2,0,1.983
+5795450,Leeds United,14,10,4,3,0,1.988
+5795463,Coventry City,10,4,1,1,0,0.674
+5795489,Newcastle United,10,6,4,2,0,0.95
+5795454,Everton,12,9,6,0,0,1.113
+5795429,Manchester City,19,12,2,5,0,2.215
+5795443,AFC Bournemouth,17,12,7,1,1,1.37
+5795487,Tottenham Hotspur,15,11,7,1,0,0.74
+5795493,Manchester United,17,10,5,0,0,1.179
+5795431,Liverpool,13,8,4,2,0,1.747
+5795459,Manchester United,30,20,13,2,1,1.603
+5795471,Fulham,13,7,2,1,0,1.813
+5795461,Sunderland,17,12,3,3,0,3.607
+5795366,Ipswich Town,10,4,1,2,0,1.796
+5795467,Chelsea,10,8,2,5,0,1.095
+5795449,Ipswich Town,12,7,1,3,1,1.689
+5795366,Sunderland,11,8,4,1,0,0.664
+5795426,Arsenal,7,3,1,1,0,1.036
+5795371,Newcastle United,13,8,4,2,0,1.575
+5795476,Brentford,10,6,4,1,0,0.821
+5795449,Crystal Palace,11,5,1,2,0,0.616
+5795425,AFC Bournemouth,17,12,7,1,0,2.18
+5795466,Brentford,14,7,3,2,0,1.063
+5795498,Chelsea,19,13,3,2,0,3.005
+5795427,Brighton & Hove Albion,15,7,1,2,0,1.466
+5795478,Everton,6,5,0,0,0,0.428
+5795442,Coventry City,12,6,3,0,0,1.367
+5795446,Aston Villa,7,6,1,1,0,0.843
+5795450,Newcastle United,8,6,0,2,1,0.878
+5795452,Manchester City,6,5,3,1,0,1.095
+5795466,Aston Villa,20,14,7,2,0,2.329
+5795444,Tottenham Hotspur,11,4,4,0,0,1.064
+5795465,Leeds United,11,8,3,1,0,0.625
+5795427,Chelsea,18,13,6,5,0,3.034
+5795485,Arsenal,20,14,10,2,0,1.964
+5795514,Sunderland,9,3,1,1,0,2.382
+5795496,Aston Villa,17,10,6,2,1,1.834
+5795482,Aston Villa,15,11,8,1,0,1.57
+5795474,Sunderland,12,10,7,0,0,0.723
+5795485,Everton,8,5,2,0,0,0.628
+5795499,Coventry City,12,8,4,3,0,0.69
+5795426,Aston Villa,7,2,2,0,1,0.334
+5795503,Newcastle United,17,8,6,0,1,1.292
+5795478,Chelsea,18,12,5,2,1,1.472
+5795501,Arsenal,10,6,3,1,0,0.985
+5795448,Brighton & Hove Albion,22,12,5,5,0,2.806
+5795370,AFC Bournemouth,5,4,0,1,0,0.646
+5795492,Brighton & Hove Albion,18,9,7,1,1,1.323
+5795460,Crystal Palace,12,7,3,0,0,1.058
+5795487,Chelsea,8,7,2,1,0,0.475
+5795491,Ipswich Town,7,3,0,1,0,0.456
+5795434,Tottenham Hotspur,17,9,3,0,0,1.119
+5795482,Newcastle United,16,10,9,0,0,0.988
+5795477,Crystal Palace,6,3,1,1,2,0.769
+5795480,Manchester United,13,9,6,1,0,0.925
+5795500,Hull City,9,4,1,2,0,0.784
+5795497,Brentford,7,2,1,1,1,0.462
+5795371,Liverpool,27,23,16,2,0,3.002
+5795500,Ipswich Town,15,9,6,2,0,1.055
+5795433,Sunderland,12,6,2,1,1,2.024
+5795364,Manchester United,21,13,8,0,0,1.826
+5795506,Brentford,5,2,2,0,0,0.585
+5795488,Fulham,12,7,4,1,1,0.552
+5795495,Leeds United,10,3,2,0,0,0.709
+5795484,Coventry City,12,5,4,1,0,0.77
+5795494,Leeds United,11,7,3,0,0,0.756
+5795447,Chelsea,12,8,1,2,0,0.905
+5795365,Crystal Palace,11,7,3,0,1,1.961
+5795368,Tottenham Hotspur,9,6,2,0,0,0.568
+5795460,Leeds United,13,8,6,0,0,1.313
+5795447,Hull City,14,9,4,2,1,1.395
+5795372,Fulham,14,11,5,2,0,1.385
+5795434,Newcastle United,11,4,2,2,0,0.723
+5795442,Manchester City,15,10,6,1,1,2.124
+5795440,Hull City,11,4,0,0,1,0.569
+5795501,Liverpool,17,9,9,0,1,1.048
+5795512,Aston Villa,12,8,2,4,0,2.919
+5795452,Manchester United,16,7,4,0,2,0.999
+5795436,Brentford,16,10,3,2,0,2.789
+5795514,Chelsea,10,5,1,0,0,0.658
+5795464,Aston Villa,15,9,3,3,0,1.257
+5795454,Tottenham Hotspur,14,10,8,0,0,0.694
+5795372,Chelsea,18,13,7,3,0,2.239
+5795367,Leeds United,13,7,2,2,0,2.017
+5795506,Brighton & Hove Albion,20,11,5,2,0,2.107
+5795486,Manchester City,15,10,4,1,1,1.557
+5795496,Fulham,14,8,3,0,0,2.328
+5795497,Nottingham Forest,16,8,6,1,0,0.855

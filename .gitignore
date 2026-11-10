@@ -1,0 +1,30 @@
+# Environment variables and secrets
+.env
+.env.*
+
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+
+# IDE
+.vscode/
+
+# Operating system
+.DS_Store
+Thumbs.db
+# Raw football data and extraction logs
+data/raw/
+
+# Detailed shot-level export
+data/processed/shots_cleaned.csv
+
+# Matchweek validation output
+data/processed/matchweek_1_validation.csv
