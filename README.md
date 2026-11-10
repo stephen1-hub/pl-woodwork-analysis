@@ -10,6 +10,8 @@ The primary objective is to understand how frequently teams and players hit the 
 
 Rather than focusing exclusively on goals, the analysis examines a broader range of shooting indicators to provide additional insight into attacking performance.
 
+# live dashboard: https://pl-woodwork-analysis-us2vunfswtwvkbfhemlhrp.streamlit.app/
+
 ## Project Objectives
 
 - Extract match fixtures and shot-event data.
@@ -189,7 +191,8 @@ The interactive dashboard provides:
 
 Users can explore the data by selecting individual matchweeks or viewing the complete dataset.
 
-**Dashboard screenshots:** To be added before publication.
+**Dashboard screenshots:** .<img width="1599" height="770" alt="image" src="https://github.com/user-attachments/assets/af6d9f48-1490-47b5-83f0-3aa5f697eca9" />
+
 
 ## Project Structure
 
